@@ -22,5 +22,6 @@ public class atv_8 {
         for (int i = 0; i < nums.length; i++) {
             System.out.print(nums[i] + " ");
         }
+        sc.close;
     }
 }
