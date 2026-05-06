@@ -22,5 +22,6 @@ public class atv_6 {
             vetorB[i] = vetorA[i] * n;
             System.out.println(vetorB[i]);
         }
+        sc.close;
     }
 }
