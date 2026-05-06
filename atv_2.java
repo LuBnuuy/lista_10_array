@@ -20,5 +20,6 @@ public class atv_2 {
 
         System.out.println("\nO maior número é " + nums[maiorPos] + " que está na posição " + maiorPos + ".");
         System.out.println("O menor número é " + nums[menorPos] + " que está na posição " + menorPos + ".");
+        sc.close;
     }
 }
