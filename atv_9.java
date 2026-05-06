@@ -17,6 +17,6 @@ public class atv_9 {
             if (vogais.indexOf(let[i]) != -1) cont++;
         }
         System.out.println("Existem "+cont+" vogais.");
+        sc.close;
     }
-
 }
