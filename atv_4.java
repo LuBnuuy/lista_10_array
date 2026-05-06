@@ -17,5 +17,6 @@ public class atv_4 {
         for (int i = 9; i >= 0; i--) {
             System.out.println(list[i]);
         }
+        sc.close;
     }
 }
