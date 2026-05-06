@@ -18,5 +18,6 @@ public class atv_5 {
             }
         }
         if (!check) System.out.println("O número " + n + " não está no vetor.");
+        sc.close;
     }
 }
