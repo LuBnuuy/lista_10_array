@@ -21,5 +21,6 @@ public class atv_7 {
             if (resp[i] == gabarito[i]) cont++;
         }
         System.out.println("Você acertou " + cont + " questões.");
+        sc.close;
     }
 }
