@@ -26,6 +26,6 @@ public class atv_3 {
         for (int i = 0; i < cont; i++) {
             System.out.print(numsPar[i] + " ");
         }
-
+        sc.close;
     }
 }
